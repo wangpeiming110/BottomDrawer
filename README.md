@@ -3,5 +3,5 @@
 
 
 
-<img src='images/image1.gif' height='738px'/>
+<img src='images/image1.gif' height='500px'/>
 
